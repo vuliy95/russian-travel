@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "Inter Bold";
+  font-style: normal;
+  font-weight: 900;
+  src: url(../vendor/Inter-Bold.woff) format("woff"),
+    url(../vendor/Inter-Bold.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "Inter Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url(../vendor/Inter-Regular.woff) format("woff"),
+  url(../vendor/Inter-Regular.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "Inter SemiBold";
+  font-style: normal;
+  font-weight: 600;
+  src: url(../vendor/Inter-SemiBold.woff) format("woff"),
+  url(../vendor/Inter-SemiBold.woff2) format("woff2");
+
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 400;
+  src: url(../vendor/ubuntu.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Inter Light";
+  font-style: normal;
+  font-weight: 200;
+  src: url(../vendor/Inter-Light.woff) format("woff"),
+  url(../vendor/Inter-Light.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "Inter Thin";
+  font-style: normal;
+  font-weight: 200;
+  src: url(../vendor/Inter-Thin.woff) format("woff"),
+  url(../vendor/Inter-Thin.woff2) format("woff2");
+}

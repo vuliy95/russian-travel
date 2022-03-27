@@ -1,0 +1,12 @@
+.place__title {
+    position: relative;
+    margin: 0;
+    top: 0px;
+    width: 460px;
+    height: fit-content;
+    font-family: 'Inter Bold';
+    font-size: 72px;
+    line-height: 76px;
+/* or 106% */
+    color: #FFFFFF;
+}

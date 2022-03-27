@@ -1,0 +1,14 @@
+.intro__list {
+
+    width: 690px;
+    height: 90px;
+    margin-top: 33px;
+
+    font-family: 'Inter SemiBold';
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+/* or 150% */
+
+    color: #FFFFFF;
+}

@@ -1,0 +1,10 @@
+.places {
+    display: grid;
+    row-gap: 80px;
+    position: relative;
+    width: 984px;
+    height: 3392px;
+    margin: 0 auto;
+    margin-top: 92px;
+
+}

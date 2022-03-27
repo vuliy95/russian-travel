@@ -1,0 +1,13 @@
+.intro__text {
+    width: 690px;
+    height: 208px;
+    margin-top: 40px;
+
+    font-family: 'Inter Regular';
+    font-size: 16px;
+    line-height: 163%;
+/* or 26px */
+
+    color: #FFFFFF;
+
+}

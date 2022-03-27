@@ -1,0 +1,10 @@
+.footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1;
+    width: 1184px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 92px;
+    padding-bottom: 24px;
+}
